@@ -1,0 +1,14 @@
+{
+  "name": "jade-runtime",
+  "repo": "karlbohlmark/jade-runtime",
+  "description": "Jade runtime for running pre-compiled jade templates in browser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "jade-runtime.js"
+  ],
+  "main": "jade-runtime.js"
+}
